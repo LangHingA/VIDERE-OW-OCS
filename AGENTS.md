@@ -1,7 +1,7 @@
 # Better OW OCS — Codex instructions (v0.1 REVIEW CANDIDATE)
 
 ## Mission and safety
-- Project: Better Overwatch Observer Control System (Better OW OCS), `lingyunalingyun/Better-Overwatch-OCS`.
+- Project: Better Overwatch Observer Control System (Better OW OCS), `langhinga/Better-Overwatch-OCS`.
 - Independently develop a local-first esports observer/broadcast control system. Do not copy code, assets, layouts, fonts or naming conventions from competing projects.
 - Do not access game process memory, modify the game client, bypass anti-cheat/protections, or invent a supposedly official game-data API.
 - Project is NOT production ready. Do not claim actual OBS/NDI/SRT/Overwatch/hardware tests passed unless those exact tests were run with recorded evidence.
